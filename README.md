@@ -1,1 +1,1 @@
-# meal-app
+# MealApp.github.io
